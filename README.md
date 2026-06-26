@@ -103,10 +103,6 @@ python main.py
 <img src="images/sample_digit_2.png" width="150"/>
 
 </td>
-
-</tr>
-
-<tr>
 <td align="center">
 
 ### Digit 3
@@ -123,11 +119,44 @@ python main.py
 
 </td>
 
+</tr>
+
+<tr>
 <td align="center">
 
 ### Digit 5
 
 <img src="images/sample_digit_5.png" width="150"/>
+
+</td>
+
+<td align="center">
+
+### Digit 6
+
+<img src="images/sample_digit_6.png" width="150"/>
+
+</td>
+
+<td align="center">
+
+### Digit 7
+
+<img src="images/sample_digit_7.png" width="150"/>
+
+</td>
+<td align="center">
+
+### Digit 8
+
+<img src="images/sample_digit_8.png" width="150"/>
+
+</td>
+<td align="center">
+
+### Digit 9
+
+<img src="images/sample_digit_9.png" width="150"/>
 
 </td>
 
