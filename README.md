@@ -2,7 +2,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
 ![Status](https://img.shields.io/badge/Status-Learning-success)
-# 🔢 Handwritten Digits Classification using Logistic Regression
+# Handwritten Digits Classification using Logistic Regression
 
 A beginner-friendly Machine Learning project that classifies handwritten digits using the Scikit-learn Digits dataset and a Logistic Regression model.
 
